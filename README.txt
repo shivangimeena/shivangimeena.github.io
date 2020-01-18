@@ -1,4 +1,4 @@
-Responsive Portfolio available at [CLICK](https://shivangimeena.github.io/)
+[I'm an inline-style link](https://www.google.com)
 
 
 Credits:
