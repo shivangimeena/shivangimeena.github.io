@@ -1,4 +1,4 @@
-Responsive Portfolio available at [click to view](https://shivangimeena.github.io/).
+Responsive Portfolio available at (click to view)[https://shivangimeena.github.io].
 
 
 Credits:
